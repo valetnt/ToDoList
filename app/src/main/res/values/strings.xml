@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="title_activity_editor">EditorActivity</string>
+    <string name="title_activity_catalog">CatalogActivity</string>
+    <string name="add_option">Add a new task</string>
+    <string name="catalog_done_button">Done</string>
+    <string name="editor_line_1">Add a new task</string>
+    <string name="editor_line_2">What do you want to do next?</string>
+    <string name="editor_add_button">Add</string>
+    <string name="editor_cancel_button">Cancel</string>
+</resources>
